@@ -6,13 +6,13 @@ Rename wordpress folder name as per your choice.
 
 Create database from phpmyadmin as per your directory folder name.
 
-Run "Your host/folder name" on browser. like - http://localhost/wp-practical and choose the language for your site.
+Run "Your host/folder name" on browser. like - http://localhost/wp-practical and choose the language for site.
 
-Fill up database details to setup wp-config file. Like ( Database name, username, password, database host name,  table prefix )
+Fill up the database details to setup wp-config file. Like ( Database name, username, password, database host name,  table prefix )
 
 In next step add wordpress title, admin username, admin password and email & search engine visibility.
 
-In next step wordpress installation and setup ready for access just you need to fill your username and password.
+In next step wordpress installation and setup ready for access just you need to login with username and password.
 
 Login Credentials:
 
